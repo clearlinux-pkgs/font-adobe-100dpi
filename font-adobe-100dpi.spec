@@ -4,7 +4,7 @@
 #
 Name     : font-adobe-100dpi
 Version  : 100.1.0.3
-Release  : 2
+Release  : 3
 URL      : https://www.x.org/releases/individual/font/font-adobe-100dpi-1.0.3.tar.bz2
 Source0  : https://www.x.org/releases/individual/font/font-adobe-100dpi-1.0.3.tar.bz2
 Summary  : No detailed summary available
